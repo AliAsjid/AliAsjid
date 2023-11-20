@@ -1,7 +1,7 @@
 - 👋 Hello. I am Ali Asjid.
-- 🤖 I am interested in Web Developing, AI, and Data Science.
-- 🤝 Looking forward to collaborate on different types of projects.
-- 🗨 You can reach me on Twitter: @PrinzzAli or Discord: PrinzzAli#1026
+- 🤖 I am interested in Web Development, Cyber Security, and AI.
+- 🤝 Looking forward to collaborating on different types of projects.
+- 🗨 You can reach me on Twitter: @PrinzzAli or Discord: @prinzzali
 
 <!--
 **AliAsjid/AliAsjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
