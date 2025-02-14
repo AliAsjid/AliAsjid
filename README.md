@@ -1,5 +1,5 @@
 - 👋 Hello. I am Ali Asjid.
-- 🤖 I am interested in Web Development, Cyber Security, and AI.
+- 🤖 I am mainly interested in Web Development and Application Development.
 - 🤝 Looking forward to collaborating on different types of projects.
 - 🗨 You can reach me on Twitter: @PrinzzAli or Discord: @prinzzali
 
